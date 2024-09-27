@@ -6,13 +6,13 @@
 
 ###
 
-<h1 align="center">Hi there 👋 My name is Alexander <img src="https://github.com/user-attachments/assets/3521e7e3-22b2-42d1-ae28-f975ec25120d" /></h1>
+<h1 align="center">Hi there 👋 My name is Alexander <img src="https://github.com/user-attachments/assets/3521e7e3-22b2-42d1-ae28-f975ec25120d" width="32px" /></h1>
 
 ###
 
 <div align="center">
   <a href="https://t.me/havenoenemiesyet" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1da67855-d6e1-4715-923b-cd04805a1d0c" alt="telegram logo" />
+    <img src="https://github.com/user-attachments/assets/069f7905-bbfe-4069-be6a-7276cae17c8b" alt="telegram logo" />
   </a>
 </div>
 
@@ -41,8 +41,12 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border=0&radius=20)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&hide_border=true&border_radius=20&background=101010" />
+</div>
 
 ###
 
-![](https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20" />
+</div>
