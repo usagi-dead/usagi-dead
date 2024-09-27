@@ -36,3 +36,11 @@
 </div>
 
 ###
+
+<h3 align="left">:fire:  Stats:</h3>
+
+###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&background=000000)](https://git.io/streak-stats)
+
+###
