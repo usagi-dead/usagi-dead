@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Alexander
 
+<div>
 <svg width="204" height="50" viewBox="0 0 204 50" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_74_2)">
 <rect x="1" y="1" width="202" height="48" rx="24" stroke="black" stroke-width="2"/>
@@ -12,6 +13,7 @@
 </clipPath>
 </defs>
 </svg>
+</div>
 
 
 
