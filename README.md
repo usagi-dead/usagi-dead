@@ -48,5 +48,5 @@
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20&theme=dark" />
 </div>
