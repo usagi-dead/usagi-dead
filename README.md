@@ -1,7 +1,6 @@
-## Hi there 👋 My name is Alexander
+![Telegram](https://github.com/user-attachments/assets/7d1cfd46-0f9d-4879-bec9-9556963bf34a)## Hi there 👋 My name is Alexander
 
-<div>
-<svg width="204" height="50" viewBox="0 0 204 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+![Uploa<svg width="204" height="50" viewBox="0 0 204 50" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_74_2)">
 <rect x="1" y="1" width="202" height="48" rx="24" stroke="black" stroke-width="2"/>
 <path d="M42.9259 16.0023L39.0023 34.672C38.706 35.9894 37.9343 36.3174 36.8375 35.6971L30.8588 31.252L27.9743 34.0517C27.6549 34.3741 27.3883 34.643 26.7726 34.643L27.2026 28.5L38.2826 18.3982C38.7645 17.9653 38.1776 17.7245 37.534 18.1584L23.8362 26.8612L17.9391 24.9985C16.6566 24.5946 16.6334 23.7045 18.2066 23.0832L41.2719 14.1171C42.3399 13.7132 43.2742 14.356 42.9259 16.0023Z" fill="black"/>
@@ -13,7 +12,7 @@
 </clipPath>
 </defs>
 </svg>
-</div>
+ding Telegram.svg…]()
 
 
 
