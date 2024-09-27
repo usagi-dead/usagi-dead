@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Alexander
 
-<a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7d1cfd46-0f9d-4879-bec9-9556963bf34a)">
+<a href=" https://t.me/havenoenemiesyet" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7d1cfd46-0f9d-4879-bec9-9556963bf34a)" alt="telegram logo" />
 </a>
 
 
