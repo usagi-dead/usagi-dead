@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋 My name is Alexander <img src="https://github.com/user-attachments/assets/3521e7e3-22b2-42d1-ae28-f975ec25120d" width="32px" /></h1>
+<h1 align="center">Hi there 👋 I'm Alexander <img src="https://github.com/user-attachments/assets/3521e7e3-22b2-42d1-ae28-f975ec25120d" width="32px" /></h1>
 
 ###
 
