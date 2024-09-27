@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋 My name is Alexander</h1>
+<h1 align="center">Hi there 👋 My name is Alexander <img src="https://github.com/user-attachments/assets/3521e7e3-22b2-42d1-ae28-f975ec25120d" /></h1>
 
 ###
 
@@ -41,6 +41,8 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border=0&radius=20)](https://git.io/streak-stats)
 
 ###
+
+![](https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20)
