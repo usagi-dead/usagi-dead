@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&hide_border=true&border_radius=20&background=101010" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=0D1117" />
 </div>
 
 ###
