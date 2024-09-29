@@ -19,7 +19,7 @@
 ####
 
 <h3 align="left">👩‍💻  About me:</h3>
-<p align="left">I am a beginner frontend developer. I'm currently graduating from college in my fourth year. I am currently actively studying frontend, in particular ReactJS.</p>
+<p align="left">I am a beginner frontend developer. I'm currently graduating from college in my fourth year and actively studying frontend, in particular <b>ReactJS</b>.</p>
 
 ###
 
@@ -42,11 +42,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=0D1117" />
+  <img height="251" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi-dead&bg_color=101010&hide_border=true&border_radius=20&theme=dark" />
+  <img height="251" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
+  <a href="https://leetcode.com/u/usagi-dead/"><img width="100%" src="https://leetcard.jacoblin.cool/usagi-dead?&border=0&radius=20&theme=dark" /></a>
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/usagi-dead?ext=heatmap&border=0&radius=20&theme=dark" />
-</div>
