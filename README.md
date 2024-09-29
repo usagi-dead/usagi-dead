@@ -42,9 +42,9 @@
 ###
 
 <div align="center">
-  <img height="251" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi-dead&bg_color=101010&hide_border=true&border_radius=20&theme=dark" />
-  <img height="251" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
-  <a href="https://leetcode.com/u/usagi-dead/"><img width="100%" src="https://leetcard.jacoblin.cool/usagi-dead?&border=0&radius=20&theme=dark" /></a>
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi-dead&bg_color=101010&hide_border=true&border_radius=20&theme=dark" />
+  <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
+  <a href="https://leetcode.com/u/usagi-dead/"><img width="846" src="https://leetcard.jacoblin.cool/usagi-dead?&border=0&radius=20&theme=dark" /></a>
 </div>
 
 ###
