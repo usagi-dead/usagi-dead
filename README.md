@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif" width="500px" />
 </div>
@@ -46,5 +44,3 @@
   <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
   <a href="https://leetcode.com/u/usagi-dead/"><img width="846" src="https://leetcard.jacoblin.cool/usagi-dead?&border=0&radius=20&theme=dark" /></a>
 </div>
-
-###
