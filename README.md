@@ -31,8 +31,8 @@
   <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="13" />
   <img title="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo"  /><img width="13" />
   <img title="ViteJS" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"  /><img width="13" />
-  <img title="ChakraUI" src="https://github.com/user-attachments/assets/72e3aa11-ca3f-4b57-830e-6c1a7d062f5c" height="40" alt="react logo"  /><img width="13" />
-  <img title="SASS/SCSS" src="https://github.com/user-attachments/assets/38cf15ea-df1c-4a4c-a263-a0a5f722c160" height="40" alt="react logo"  />
+  <img title="SASS/SCSS" src="https://github.com/user-attachments/assets/72e3aa11-ca3f-4b57-830e-6c1a7d062f5c" height="40" alt="react logo"  /><img width="13" />
+  <img title="ChakraUI" src="https://github.com/user-attachments/assets/38cf15ea-df1c-4a4c-a263-a0a5f722c160" height="40" alt="react logo"  />
 </div>
 
 ###
