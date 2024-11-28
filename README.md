@@ -43,6 +43,5 @@
 
 <div align="center">
   <img height="236" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi-dead&bg_color=101010&hide_border=true&border_radius=20&theme=dark" />
-  <a href="https://leetcode.com/u/usagi-dead/"><img height="236" src="https://leetcard.jacoblin.cool/usagi-dead?&border=0&radius=20&theme=dark" /></a>
-  <img width="846" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
+  <img height="236" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
 </div>
