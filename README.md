@@ -35,14 +35,3 @@
   <img title="SASS/SCSS" src="https://github.com/user-attachments/assets/72e3aa11-ca3f-4b57-830e-6c1a7d062f5c" height="40" alt="react logo"  /><img width="13" />
   <img title="ChakraUI" src="https://github.com/user-attachments/assets/38cf15ea-df1c-4a4c-a263-a0a5f722c160" height="40" alt="react logo"  />
 </div>
-
-###
-
-<h3 align="left">:fire:  Stats:</h3>
-
-###
-
-<div align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usagi-dead&bg_color=101010&hide_border=true&border_radius=20&theme=dark" />
-  <img height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=usagi-dead&theme=dark&border_radius=20&background=101010&hide_border=true" />
-</div>
