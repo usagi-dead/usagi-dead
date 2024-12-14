@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif" width="500px" />
+  <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif" width="100%" />
 </div>
 
 ###
