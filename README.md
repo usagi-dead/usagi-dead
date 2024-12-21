@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://t.me/havenoenemiesyet" target="_blank">
-    <img src="https://github.com/user-attachments/assets/069f7905-bbfe-4069-be6a-7276cae17c8b" alt="telegram logo" />
+    <img src="https://github.com/user-attachments/assets/7bbb4aa8-33ec-4965-bbdb-a9c1d20bbe0f" alt="telegram logo" />
   </a>
 </div>
 
