@@ -10,11 +10,9 @@
 
 <div align="center">
   <a href="https://t.me/havenoenemiesyet" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7bbb4aa8-33ec-4965-bbdb-a9c1d20bbe0f" alt="telegram logo" />
+    <img src="https://github.com/user-attachments/assets/ac500337-65d5-46f4-9a9f-8383260ee60e" alt="telegram" width="200px" />
   </a>
 </div>
-
-####
 
 <h3 align="left">👩‍💻  About me:</h3>
 <p align="left">I am a beginner frontend developer. I'm currently graduating from college in my fourth year and actively studying frontend, in particular <b>ReactJS</b>.</p>
