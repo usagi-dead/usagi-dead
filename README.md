@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/havenoenemiesyet" target="_blank">
+  <a href="https://t.me/usagi_dead" target="_blank">
     <img src="https://github.com/user-attachments/assets/ac500337-65d5-46f4-9a9f-8383260ee60e" alt="telegram" width="200px" />
   </a>
 </div>
