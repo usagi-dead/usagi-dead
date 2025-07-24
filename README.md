@@ -15,7 +15,7 @@
 </div>
 
 <h3 align="left">👩‍💻  About me:</h3>
-<p align="left">I am a beginner frontend developer. I'm currently graduating from college in my fourth year and actively studying frontend, in particular <b>ReactJS</b>.</p>
+<p align="left">Frontend developer with big ambitions) I actively study new technologies and create my own projects. At the moment I am actively learning Angular.</p>
 
 ###
 
@@ -28,6 +28,7 @@
   <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" height="40" alt="typescript"  /><img width="13" />
   <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" height="40" alt="html5"  /><img width="13" />
   <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" height="40" alt="css3"  /><img width="13" />
+  <img title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angular/angular-original.svg" height="40" alt="angular"  /><img width="13" />
   <img title="ReactJS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react"  /><img width="13" />
   <img title="ViteJS" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" height="40" alt="vite"  /><img width="13" />
   <img title="SASS/SCSS" src="https://github.com/user-attachments/assets/72e3aa11-ca3f-4b57-830e-6c1a7d062f5c" height="40" alt="sass"  /><img width="13" />
